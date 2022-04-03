@@ -1,0 +1,18 @@
+(Looking at it from the front)
+- Left pin	: Signal pin (Pin 2)
+- Middle pin	: +5V
+- Right pin	: GND
+
+/* LCD pins and their connections
+ * VSS to GND
+ * VDD to +5V
+ * V0 to ground (connect to potentiometer or resistor to dim the whiteness on the squares 2k)
+ * RS to pin 12
+ * RW to GND
+ * E to pin 11
+ * D4 to pin 5
+ * D5 to pin 4
+ * D6 to pin 3
+ * D7 to pin 2
+ * A to +5V (Anode)
+ * K to GND (Kathode) */
